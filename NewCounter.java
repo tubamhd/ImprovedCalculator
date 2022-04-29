@@ -51,7 +51,7 @@ public class NewCounter {
         public static void main(String[] args) {
             int select;
 
-            System.out.println("Welcome to My Counter! Please Enter The Number for Calculation!");
+            System.out.println("Welcome to Calculator! Please Enter The Number for Calculation!");
             secimwhile:
             while(true){
                 Scanner input1 = new Scanner(System.in);
