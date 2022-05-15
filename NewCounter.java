@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NewCounter {
+public class NewCalc {
 
         public static int[] IntGetVeriable(){
             Scanner input = new Scanner(System.in);
